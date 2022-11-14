@@ -13,6 +13,7 @@ class _ShopPageState extends State<ShopPage> {
   @override
   Widget build(BuildContext context) {
     return Container(
+      
       child: Center(
         child: Text('Add Cart Page'),
       ),
